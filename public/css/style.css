@@ -1,9 +1,3 @@
-@font-face {
-  font-family: 'Frijole';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Frijole'), url(/fonts/frijole.woff) format('woff');
-}
 * {
   margin: 0;
   padding: 0;
