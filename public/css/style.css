@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'Frijole';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Frijole'), url(/fonts/frijole.woff) format('woff');
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #ABABAF;
+}
+h1 {
+  font-family: 'Frijole', cursive;
+  font-size: 5em;
+  width: 500px;
+  margin: 5% auto
+}
